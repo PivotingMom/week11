@@ -1,0 +1,14 @@
+body {
+  background-color: aquamarine;
+}
+
+.box {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: yellow;
+}
+/*# sourceMappingURL=style.css.map */
